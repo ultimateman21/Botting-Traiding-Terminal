@@ -1,0 +1,2 @@
+{"time": "08.06.2025 18:39:00", "id": "6fbf1b41-e1f6-4072-8062-dd8b92a0a53e", "status": "EXECUTION_REPORT_STATUS_FILL", "lots": "1", "price": "77.14", "direction": "ORDER_DIRECTION_SELL", "type": "ORDER_TYPE_MARKET"}
+{"time": "08.06.2025 18:39:00", "id": "6fbf1b41-e1f6-4072-8062-dd8b92a0a53e", "status": "EXECUTION_REPORT_STATUS_FILL", "lots": "1", "price": "77.14", "direction": "ORDER_DIRECTION_SELL", "type": "ORDER_TYPE_MARKET"}

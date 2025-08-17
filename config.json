@@ -1,0 +1,54 @@
+{
+    "password": "f64eaebb949ccffaf776d3a068d2f6d669f330856d2e6dd00e5223bf06b03158",
+    "tokens": {
+        "bybit": {
+            "key": "ClwLRRYiRFMsQXuYxfrFoafIC9IKU6fxna6j1WRfR3zNuNHNeBpJDyk5vHl+nzOr",
+            "secret": "wRZn+GbvYIgH7NqC31dysEfpRB/NJRua7xTwh8GT6zGO3eBmgkO2lMcuAAkLSlSmUyqTmOu4U+jF7VeOQK+x1Q=="
+        },
+        "tinkoff": "bj56MfiNB/ODjWENxSfyThn6kecqU0cOKx5TQrObFTyLn5duRom72yMqcNlPUE5MVZ88rv1Qv7LGyO7pR9VR0ggF82+f/JTALi69WyvI/T1vEzeH/XjQ03kGxt/2YT2/Wg9Nv/6duxql5LHNPXXUrQ=="
+    },
+    "bybit_select": {
+        "BTCUSDT": null,
+        "ETHUSDT": null,
+        "GRASSUSDT": null,
+        "OBTUSDT": null
+    },
+    "tinkoff_select": {
+        "RAGR": {
+            "asset_uid": "0c0f20b3-82ca-4f0c-afbd-6df987e5ac4e",
+            "class_code": "TQBR",
+            "figi": "TCS90A0JQUZ6",
+            "name": "\u0420\u0443\u0441\u0410\u0433\u0440\u043e",
+            "p_uid": "adc78cdb-d662-45cd-85d6-f5e605966b9e",
+            "ticker": "RAGR",
+            "uid": "9b9a584e-448f-40da-9ba8-353b44ad697a"
+        },
+        "FLOT": {
+            "asset_uid": "75127af3-e54c-456f-ac0b-64dc5949a613",
+            "class_code": "TQBR",
+            "figi": "BBG000R04X57",
+            "name": "\u0421\u043e\u0432\u043a\u043e\u043c\u0444\u043b\u043e\u0442",
+            "p_uid": "4419d6f3-b412-421e-8745-3bc6b7a93b09",
+            "ticker": "FLOT",
+            "uid": "21423d2d-9009-4d37-9325-883b368d13ae"
+        },
+        "MRKP": {
+            "asset_uid": "c2b869cc-8676-4e6d-801e-ffd577bb8d98",
+            "class_code": "TQBR",
+            "figi": "BBG000VG1034",
+            "name": "\u0420\u043e\u0441\u0441\u0435\u0442\u0438 \u0426\u0435\u043d\u0442\u0440 \u0438 \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u044c\u0435",
+            "p_uid": "89daac00-893a-423a-b4b4-72d587e154be",
+            "ticker": "MRKP",
+            "uid": "9a41ec6e-edf0-4863-9ec0-fb3a5c6811e2"
+        },
+        "SBER": {
+            "asset_uid": "40d89385-a03a-4659-bf4e-d3ecba011782",
+            "class_code": "TQBR",
+            "figi": "BBG004730N88",
+            "name": "\u0421\u0431\u0435\u0440 \u0411\u0430\u043d\u043a",
+            "p_uid": "41eb2102-5333-4713-bf15-72b204c4bf7b",
+            "ticker": "SBER",
+            "uid": "e6123145-9665-43e0-8413-cd61b8aa9b13"
+        }
+    }
+}
