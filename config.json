@@ -1,11 +1,11 @@
 {
-    "password": "f64eaebb949ccffaf776d3a068d2f6d669f330856d2e6dd00e5223bf06b03158",
+    "password": null,
     "tokens": {
         "bybit": {
-            "key": "ClwLRRYiRFMsQXuYxfrFoafIC9IKU6fxna6j1WRfR3zNuNHNeBpJDyk5vHl+nzOr",
-            "secret": "wRZn+GbvYIgH7NqC31dysEfpRB/NJRua7xTwh8GT6zGO3eBmgkO2lMcuAAkLSlSmUyqTmOu4U+jF7VeOQK+x1Q=="
+            "key": null,
+            "secret": null
         },
-        "tinkoff": "bj56MfiNB/ODjWENxSfyThn6kecqU0cOKx5TQrObFTyLn5duRom72yMqcNlPUE5MVZ88rv1Qv7LGyO7pR9VR0ggF82+f/JTALi69WyvI/T1vEzeH/XjQ03kGxt/2YT2/Wg9Nv/6duxql5LHNPXXUrQ=="
+        "tinkoff": null
     },
     "bybit_select": {
         "BTCUSDT": null,
@@ -51,4 +51,5 @@
             "uid": "e6123145-9665-43e0-8413-cd61b8aa9b13"
         }
     }
+
 }
